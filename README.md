@@ -32,5 +32,18 @@
 . Select chromedriver<br>
 . Enter your base url<br>
 
+# Test Case
+* The word "Antalya" is entered in the search bar in the HOTEL tab.
+* Start date selected August 1, 2022
+* End date selected August 8, 2022
+* 2 adults are selected in the person area
+* Press the "Search" button
+* The hotel that comes to the top in the results is selected and the detail page is passed.
+* Select the top room on the detail page and proceed to the payment page.
+* "Do You Want Transportation?" the I want option is selected in the field
+* Sabiha Gökçen is written to the departure airport in the departure section.
+* Sabiha Gökçen is written to the arrival airport in the return section.
+* Press the "Search" button
+* Check if planes are listed
 
 
