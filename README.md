@@ -6,6 +6,8 @@
 * Webdriver Protocol (cross-browser testing)
 * Chrome Dev Tools Prtocol (chromium-based automation) using Puppeteer
 * Appium for Mobile Automation
+* * Feature Reach
+- Frameworks: Mocha, Jasmine and Cucumber
 
 # Advantages
 * Easy to get started with for beginners
@@ -30,9 +32,6 @@
 . Select chromedriver<br>
 . Enter your base url<br>
 
-![webdriveio1](https://user-images.githubusercontent.com/75911392/182852019-f9aff643-9835-4338-96d5-c3e251dbe724.PNG)
-
-![image](https://user-images.githubusercontent.com/75911392/182854547-eccf06da-5dd0-4604-b4dd-d85916687159.png)
 
 
 
