@@ -19,7 +19,7 @@
 * install node v14.15.3
 * install npm 6.14.9 or higher
 * npm install @wdio/cli
-* npx wdio config
+* npx wdio config<br>
 . Select "On my local machine"<br>
 . Select mocha framework<br>
 . Select sync Webdriver IO commands<br>
