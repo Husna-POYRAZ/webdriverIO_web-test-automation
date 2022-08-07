@@ -45,7 +45,11 @@ $('#submit).click();
 . Select allure for reporting <br>
 . Select chromedriver<br>
 . Enter your base url<br>
+* code . (open project)
 
+![x](https://user-images.githubusercontent.com/75911392/183310521-16a74559-ca6c-4d84-84d9-1ccb689faf09.PNG)
+
+![x2](https://user-images.githubusercontent.com/75911392/183310524-7dff26b9-7c51-4f55-be98-c081a21d2553.PNG)
 
 # Test Case
 
