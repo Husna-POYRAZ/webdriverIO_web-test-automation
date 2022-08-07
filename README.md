@@ -52,14 +52,6 @@ $('#submit).click();
 
 ![x2](https://user-images.githubusercontent.com/75911392/183310524-7dff26b9-7c51-4f55-be98-c081a21d2553.PNG)
 
-# Test Case
 
-* Uygulama açılır
-* Anasayfada Konum alanına tıklanır.
-* İl, ilçe ve mahalle seçilir ve kaydet butonuna Kklanır.
-* Konumunuz Kaydedildi popup’ı kontrol edilir.
-* Tab bar üzerinden kategoriler tabına tıklanır.
-* Herhangi bir kategori seçilip listeleme sayfasına yönlenilir.
-* Listeleme sayfasında Yarın Kapında alanında gelen il bilgisi ile anasayfada seçilen il bilgisinin aynı olduğu kontrol edilir.
 
 
