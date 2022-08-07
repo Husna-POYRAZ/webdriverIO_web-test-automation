@@ -31,6 +31,7 @@ $('#submit).click();
 # Setup & Installing
 * install node v14.15.3  (version control: node -v)
 * install npm 6.14.9 or higher (version control: npm -v)
+* npm init -y
 * npm install @wdio/cli
 * npx wdio config<br>
 . Select "On my local machine"<br>
