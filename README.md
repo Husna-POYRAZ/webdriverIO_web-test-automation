@@ -1,12 +1,13 @@
 # Web App Testing with WebdriverIO
 
 
-# What is WebdriverIO?
+
+# What is webdriverio?
 * Open Source testing framework built to automation modern web and mobile applications
 * Webdriver Protocol (cross-browser testing)
 * Chrome Dev Tools Prtocol (chromium-based automation) using Puppeteer
 * Appium for Mobile Automation
-* * Feature Reach
+* Feature Reach
 - Frameworks: Mocha, Jasmine and Cucumber
 
 # Advantages
@@ -14,12 +15,24 @@
 * Readable syntax
 * Pre-built services support
 * Integration with CI tools
+. Using Cloud Services
+. Autocompletion
+. Docker
+. Github Actions
+. Jenkins
+. Bamboo
+
+# Concise Test Writing
+* Instead of:
+driver.findElement(By.id('submit')).click();
+* You write:
+$('#submit).click();
 
 # Setup & Installing
-* install node v14.15.3
-* install npm 6.14.9 or higher
+* install node v14.15.3  (version control: node -v)
+* install npm 6.14.9 or higher (version control: npm -v)
 * npm install @wdio/cli
-* npx wdio config<br>
+* npx wdio config
 . Select "On my local machine"<br>
 . Select mocha framework<br>
 . Select sync Webdriver IO commands<br>
@@ -31,6 +44,7 @@
 . Select allure for reporting <br>
 . Select chromedriver<br>
 . Enter your base url<br>
+
 
 # Test Case
 
