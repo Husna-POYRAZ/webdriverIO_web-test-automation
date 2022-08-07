@@ -45,6 +45,7 @@ $('#submit).click();
 . Select allure for reporting <br>
 . Select chromedriver<br>
 . Enter your base url<br>
+* npx wdio run wdio.conf.js
 * code . (open project)
 
 ![x](https://user-images.githubusercontent.com/75911392/183310521-16a74559-ca6c-4d84-84d9-1ccb689faf09.PNG)
