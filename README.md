@@ -16,11 +16,11 @@
 * Pre-built services support
 * Integration with CI tools
 . Using Cloud Services
-. Autocompletion
-. Docker
-. Github Actions
-. Jenkins
-. Bamboo
+. Autocompletion<br>
+. Docker<br>
+. Github Actions<br>
+. Jenkins<br>
+. Bamboo<br>
 
 # Concise Test Writing
 * Instead of:
@@ -32,7 +32,7 @@ $('#submit).click();
 * install node v14.15.3  (version control: node -v)
 * install npm 6.14.9 or higher (version control: npm -v)
 * npm install @wdio/cli
-* npx wdio config
+* npx wdio config<br>
 . Select "On my local machine"<br>
 . Select mocha framework<br>
 . Select sync Webdriver IO commands<br>
